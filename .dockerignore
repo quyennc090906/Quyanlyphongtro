@@ -1,0 +1,11 @@
+.env
+.git
+node_modules
+_backup
+_tmp_docker_config
+docs
+postman
+api/test
+Bao_Cao_Du_An_Quan_Ly_Phong_Tro.docx
+~$*
+*.log

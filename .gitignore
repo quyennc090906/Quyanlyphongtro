@@ -1,0 +1,11 @@
+node_modules/
+.env
+_backup/
+*.key
+data/
+uploads/
+SaoLuu_PhongTro_*.json
+*.log
+.DS_Store
+Thumbs.db
+~$*

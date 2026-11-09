@@ -1,0 +1,21 @@
+{
+  "name": "quan-ly-phong-tro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ứng dụng quản lý phòng trọ Vue 3, Express, PostgreSQL và MinIO",
+  "scripts": {
+    "start": "node api/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "minio": "^8.0.5",
+    "multer": "^2.0.2",
+    "pg": "^8.13.1",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
