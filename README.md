@@ -9,7 +9,7 @@
 | 1 | Ngô Chí Quyển | 24210501034 | Trưởng nhóm |
 | 2 | Trịnh Lâm Huy | 24210501016 | Thành viên |
 | 3 | Mã Khánh Tường | 24210501041 | Thành viên |
-| 4 | Lê Nhật Duy | 24210501006 | Thành viên |
+| 4 | Lê Nhựt Duy | 24210501006 | Thành viên |
 | 5 | Nguyễn Ca Gu | 24210501053 | Thành viên |
 
 ## 2. Công nghệ sử dụng
